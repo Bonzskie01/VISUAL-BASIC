@@ -1,0 +1,14 @@
+C:\Users\CLAB-PCA05\source\repos\Program\Program\bin\Debug\net8.0\Program.exe
+C:\Users\CLAB-PCA05\source\repos\Program\Program\bin\Debug\net8.0\Program.deps.json
+C:\Users\CLAB-PCA05\source\repos\Program\Program\bin\Debug\net8.0\Program.runtimeconfig.json
+C:\Users\CLAB-PCA05\source\repos\Program\Program\bin\Debug\net8.0\Program.dll
+C:\Users\CLAB-PCA05\source\repos\Program\Program\bin\Debug\net8.0\Program.pdb
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.AssemblyInfoInputs.cache
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.AssemblyInfo.vb
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.vbproj.CoreCompileInputs.cache
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.dll
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\refint\Program.dll
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.pdb
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\Program.genruntimeconfig.cache
+C:\Users\CLAB-PCA05\source\repos\Program\Program\obj\Debug\net8.0\ref\Program.dll
