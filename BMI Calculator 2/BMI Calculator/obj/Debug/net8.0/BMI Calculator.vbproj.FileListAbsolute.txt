@@ -1,0 +1,42 @@
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0\BMI Calculator.exe
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0\BMI Calculator.deps.json
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0\BMI Calculator.runtimeconfig.json
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0\BMI Calculator.dll
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\bin\Debug\net8.0\BMI Calculator.pdb
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfo.vb
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.dll
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\refint\BMI Calculator.dll
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.pdb
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\BMI Calculator.genruntimeconfig.cache
+C:\Users\CLAB-PCA05\source\repos\BMI Calculator\BMI Calculator\obj\Debug\net8.0\ref\BMI Calculator.dll
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.exe
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.deps.json
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.runtimeconfig.json
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.dll
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.pdb
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfoInputs.cache
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfo.vb
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.dll
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\refint\BMI Calculator.dll
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.pdb
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.genruntimeconfig.cache
+C:\Users\CLAB-PCA05\Desktop\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\ref\BMI Calculator.dll
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.exe
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.deps.json
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.runtimeconfig.json
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.dll
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\bin\Debug\net8.0\BMI Calculator.pdb
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfoInputs.cache
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.AssemblyInfo.vb
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.vbproj.CoreCompileInputs.cache
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.dll
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\refint\BMI Calculator.dll
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.pdb
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\BMI Calculator.genruntimeconfig.cache
+E:\Vb.net Programs\Prelim\BMI Calculator 2\BMI Calculator\obj\Debug\net8.0\ref\BMI Calculator.dll
